@@ -1,1 +1,1 @@
-stop_id,trip_id,[times]
+stop_id,trip_id,time
