@@ -1,1 +1,2 @@
+stop_code,name,lat,lon,routes_array
 OW001,Picolabs Headquarters,40.25372,-111.658465,ROUTE1-ROUTE3
