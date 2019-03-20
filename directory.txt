@@ -2,5 +2,4 @@ UTA1
 calendar
 routes
 stop_times_4
-stops
 trips
