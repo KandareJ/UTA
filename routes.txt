@@ -1,3 +1,4 @@
 route_id,short_name,long_name,color
-ROUTE1,OW1,route,3333CC
-ROUTE3,OW3,route,3333CC
+ROUTE1,OW1,Route 1,3333CC
+ROUTE2,OW2,Route 2,3333CC
+ROUTE3,OW3,Route 3,3333CC
